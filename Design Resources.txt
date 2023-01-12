@@ -1,0 +1,8 @@
+Resources used in UI/UX project: 
+
+* Figma Design Model: https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3
+
+* Gradient Generator: https://angrytools.com/gradient/
+
+* CSS animation Generator: https://animista.net/
+
